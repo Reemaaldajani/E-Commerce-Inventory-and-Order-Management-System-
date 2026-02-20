@@ -1,4 +1,3 @@
--- ملاحظة: تم إيقاف أوامر إنشاء القاعدة لأن المواقع توفرها لك جاهزة
 -- CREATE DATABASE IF NOT EXISTS `retail_system`;
 -- USE `retail_system`;
 
